@@ -1,0 +1,23 @@
+{
+  "name": "ifsc",
+  "version": "1.0.0",
+  "description": "'",
+  "main": "app.js",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyskc/ifsc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyskc/ifsc/issues"
+  },
+  "homepage": "https://github.com/sunnyskc/ifsc#readme"
+}
